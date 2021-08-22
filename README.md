@@ -1,7 +1,8 @@
-### Hi there 👋
+### 정준태
 
+GSHS 38th
 <!--
-**Powering111/Powering111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Powering111/Powering111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. yeah
 
 Here are some ideas to get you started:
 
