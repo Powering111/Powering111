@@ -1,17 +1,13 @@
-### 정준태
+## 정준태
+반갑습니다.
 
-GSHS 38th
-<!--
-**Powering111/Powering111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. yeah
+### History
 
-Here are some ideas to get you started:
+2023~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| KAIST 23
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2021~2022&nbsp;&nbsp;| GSHS 38th
+
+
+### Support
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/itbiw)
